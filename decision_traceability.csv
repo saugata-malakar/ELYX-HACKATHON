@@ -1,0 +1,1001 @@
+decision_id,decision,decision_date,trigger_metric,trigger_value,snapshot_hrv,snapshot_stress,nearest_intervention_type,nearest_intervention_date,chat_time,chat_sender,chat_excerpt
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:00:00,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 08:52:24,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:00:00,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:00:00,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:00:00,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:00:00,hrv,38.9,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:00:00,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:00:00,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:00:00,hrv,40.0,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:00:00,hrv,40.8,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:00:00,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:00:00,hrv,28.3,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:00:00,hrv,37.1,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:00:00,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:00:00,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:00:00,hrv,34.7,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:00:00,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:00:00,hrv,41.2,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:00:00,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00019,Advance bedtime by 30 min,2025-01-01 08:00:00,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00020,Advance bedtime by 30 min,2025-01-08 08:00:00,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00021,Delay workout due to low recovery,2025-01-15 08:00:00,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00022,Swap run for mobility,2025-01-22 08:00:00,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 07:44:46,Rohan,Sleep was fragmented last night—what do I adjust?
+D00023,Add 10-min sunlight AM,2025-01-29 08:00:00,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00024,Swap run for mobility,2025-02-05 08:00:00,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00025,Swap run for mobility,2025-02-12 08:00:00,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:12:07,Rohan,Garmin zones feel off—can we recalibrate?
+D00026,Increase protein by 20g today,2025-02-19 08:00:00,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00027,Increase protein by 20g today,2025-02-26 08:00:00,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00028,Increase protein by 20g today,2025-03-05 08:00:00,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00029,Add 10-min sunlight AM,2025-03-12 08:00:00,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00030,Advance bedtime by 30 min,2025-03-19 08:00:00,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00031,Swap run for mobility,2025-03-26 08:00:00,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00032,Increase protein by 20g today,2025-04-02 08:00:00,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:10:21,Rachel,Sending a mobility circuit and a short core block.
+D00033,Delay workout due to low recovery,2025-04-09 08:00:00,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00034,Add 10-min sunlight AM,2025-04-16 08:00:00,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00035,Increase protein by 20g today,2025-04-23 08:00:00,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 07:55:28,Rohan,Sleep was fragmented last night—what do I adjust?
+D00036,Delay workout due to low recovery,2025-04-30 08:00:00,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00037,Delay workout due to low recovery,2025-05-07 08:00:00,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00038,Increase protein by 20g today,2025-05-14 08:00:00,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00039,Swap run for mobility,2025-05-21 08:00:00,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 07:03:14,Carla,Whoop shows fewer disturbances; magnesium likely helped.
+D00040,Delay workout due to low recovery,2025-05-28 08:00:00,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00041,Advance bedtime by 30 min,2025-06-04 08:00:00,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00042,Increase protein by 20g today,2025-06-11 08:00:00,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00043,Delay workout due to low recovery,2025-06-18 08:00:00,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00044,Increase protein by 20g today,2025-06-25 08:00:00,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 07:09:26,Neel,Labs are in; Dr. Warren will summarize by EOD.
+D00045,Add 10-min sunlight AM,2025-07-02 08:00:00,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00046,Swap run for mobility,2025-07-09 08:00:00,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:00:00,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00048,Swap run for mobility,2025-07-23 08:00:00,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00049,Increase protein by 20g today,2025-07-30 08:00:00,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00050,Advance bedtime by 30 min,2025-08-06 08:00:00,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00051,Increase protein by 20g today,2025-08-13 08:00:00,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00052,Swap run for mobility,2025-08-20 08:00:00,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00053,Add 10-min sunlight AM,2025-08-27 08:00:00,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:36:06,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:44:09,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00029,Add 10-min sunlight AM,2025-03-12 08:30:15,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00035,Increase protein by 20g today,2025-04-23 08:06:22,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 07:55:28,Rohan,Sleep was fragmented last night—what do I adjust?
+D00039,Swap run for mobility,2025-05-21 08:07:26,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 07:03:14,Carla,Whoop shows fewer disturbances; magnesium likely helped.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:36:21,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00020,Advance bedtime by 30 min,2025-01-08 08:51:45,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00043,Delay workout due to low recovery,2025-06-18 08:35:49,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00023,Add 10-min sunlight AM,2025-01-29 08:06:03,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00034,Add 10-min sunlight AM,2025-04-16 08:47:08,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00033,Delay workout due to low recovery,2025-04-09 08:27:33,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:04:29,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00048,Swap run for mobility,2025-07-23 08:22:05,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:12:11,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00033,Delay workout due to low recovery,2025-04-09 08:59:11,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:54:34,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:06:22,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00048,Swap run for mobility,2025-07-23 08:34:20,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00026,Increase protein by 20g today,2025-02-19 08:00:26,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00020,Advance bedtime by 30 min,2025-01-08 08:27:28,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:09:22,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00037,Delay workout due to low recovery,2025-05-07 08:44:51,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00033,Delay workout due to low recovery,2025-04-09 08:04:20,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:54:09,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:13:52,hrv,38.9,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00050,Advance bedtime by 30 min,2025-08-06 08:15:47,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:53:08,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:54:05,hrv,32.6,45.7,66.0,sleep,2025-01-29,2025-01-29 11:07:22,Rohan,Need a quick hotel gym routine for tonight.
+D00021,Delay workout due to low recovery,2025-01-15 08:05:46,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:06:32,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:51:12,hrv,32.6,45.7,66.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00021,Delay workout due to low recovery,2025-01-15 08:58:39,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00048,Swap run for mobility,2025-07-23 08:29:19,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00049,Increase protein by 20g today,2025-07-30 08:09:54,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:09:10,hrv,40.0,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00042,Increase protein by 20g today,2025-06-11 08:15:59,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00036,Delay workout due to low recovery,2025-04-30 08:41:07,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00029,Add 10-min sunlight AM,2025-03-12 08:05:48,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00053,Add 10-min sunlight AM,2025-08-27 08:38:29,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00039,Swap run for mobility,2025-05-21 08:48:13,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00034,Add 10-min sunlight AM,2025-04-16 08:08:38,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00022,Swap run for mobility,2025-01-22 08:59:03,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00031,Swap run for mobility,2025-03-26 08:59:14,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00028,Increase protein by 20g today,2025-03-05 08:17:49,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00035,Increase protein by 20g today,2025-04-23 08:06:44,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 07:55:28,Rohan,Sleep was fragmented last night—what do I adjust?
+D00034,Add 10-min sunlight AM,2025-04-16 08:19:32,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:15:30,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00041,Advance bedtime by 30 min,2025-06-04 08:16:45,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:55:29,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00043,Delay workout due to low recovery,2025-06-18 08:09:18,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:19:01,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:47:15,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:03:28,hrv,37.1,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00035,Increase protein by 20g today,2025-04-23 08:03:39,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 07:55:28,Rohan,Sleep was fragmented last night—what do I adjust?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:18:07,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00023,Add 10-min sunlight AM,2025-01-29 08:58:04,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:50:22,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00019,Advance bedtime by 30 min,2025-01-01 08:55:38,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:52:24,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00037,Delay workout due to low recovery,2025-05-07 08:51:50,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:07:07,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00044,Increase protein by 20g today,2025-06-25 08:24:04,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00028,Increase protein by 20g today,2025-03-05 08:31:46,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00045,Add 10-min sunlight AM,2025-07-02 08:10:00,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00031,Swap run for mobility,2025-03-26 08:59:34,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00053,Add 10-min sunlight AM,2025-08-27 08:36:11,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:51:09,hrv,34.3,32.7,48.0,therapy,2025-03-26,2025-03-26 10:18:58,Rohan,Jet lag protocol before NY flight?
+D00046,Swap run for mobility,2025-07-09 08:15:31,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:42:54,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00027,Increase protein by 20g today,2025-02-26 08:06:22,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:01:21,hrv,41.2,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:38:26,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:04:07,hrv,34.7,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00053,Add 10-min sunlight AM,2025-08-27 08:16:34,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00040,Delay workout due to low recovery,2025-05-28 08:47:38,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:29:52,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:22:35,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:17:26,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00044,Increase protein by 20g today,2025-06-25 08:40:06,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00038,Increase protein by 20g today,2025-05-14 08:57:16,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00026,Increase protein by 20g today,2025-02-19 08:44:21,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00051,Increase protein by 20g today,2025-08-13 08:21:32,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00021,Delay workout due to low recovery,2025-01-15 08:25:20,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:06:11,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:08:37,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00019,Advance bedtime by 30 min,2025-01-01 08:16:06,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:23:12,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:59:24,hrv,45.4,41.2,49.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00052,Swap run for mobility,2025-08-20 08:52:15,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00045,Add 10-min sunlight AM,2025-07-02 08:06:47,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00042,Increase protein by 20g today,2025-06-11 08:19:52,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00049,Increase protein by 20g today,2025-07-30 08:03:23,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00028,Increase protein by 20g today,2025-03-05 08:03:46,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00050,Advance bedtime by 30 min,2025-08-06 08:22:29,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00023,Add 10-min sunlight AM,2025-01-29 08:57:32,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:11:07,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:40:50,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:23:34,hrv,37.1,32.6,55.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00022,Swap run for mobility,2025-01-22 08:32:27,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00026,Increase protein by 20g today,2025-02-19 08:52:09,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00040,Delay workout due to low recovery,2025-05-28 08:49:44,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00042,Increase protein by 20g today,2025-06-11 08:49:41,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00035,Increase protein by 20g today,2025-04-23 08:24:40,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:02:55,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:59:06,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:59:38,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:51:27,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00031,Swap run for mobility,2025-03-26 08:28:38,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:16:50,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:10:29,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00024,Swap run for mobility,2025-02-05 08:22:16,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:20:04,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00039,Swap run for mobility,2025-05-21 08:16:33,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 07:03:14,Carla,Whoop shows fewer disturbances; magnesium likely helped.
+D00020,Advance bedtime by 30 min,2025-01-08 08:57:00,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:39:33,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:13:23,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00028,Increase protein by 20g today,2025-03-05 08:38:21,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00039,Swap run for mobility,2025-05-21 08:42:18,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:31:21,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00047,Increase protein by 20g today,2025-07-16 08:56:48,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:57:57,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00036,Delay workout due to low recovery,2025-04-30 08:25:56,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00053,Add 10-min sunlight AM,2025-08-27 08:28:20,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00036,Delay workout due to low recovery,2025-04-30 08:13:02,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:47:01,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00048,Swap run for mobility,2025-07-23 08:55:51,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00046,Swap run for mobility,2025-07-09 08:39:29,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:12:04,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:31:05,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00041,Advance bedtime by 30 min,2025-06-04 08:47:40,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:02:32,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00023,Add 10-min sunlight AM,2025-01-29 08:35:25,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00047,Increase protein by 20g today,2025-07-16 08:39:27,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:32:12,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00041,Advance bedtime by 30 min,2025-06-04 08:38:33,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00026,Increase protein by 20g today,2025-02-19 08:53:45,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00046,Swap run for mobility,2025-07-09 08:07:30,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:34:14,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:47:45,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00036,Delay workout due to low recovery,2025-04-30 08:49:19,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00030,Advance bedtime by 30 min,2025-03-19 08:28:01,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:59:50,hrv,45.4,41.2,49.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00020,Advance bedtime by 30 min,2025-01-08 08:19:27,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:26:26,hrv,38.9,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00031,Swap run for mobility,2025-03-26 08:49:26,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:26:22,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00030,Advance bedtime by 30 min,2025-03-19 08:20:36,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00039,Swap run for mobility,2025-05-21 08:33:21,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:37:19,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00053,Add 10-min sunlight AM,2025-08-27 08:58:11,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:37:04,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:11:07,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00045,Add 10-min sunlight AM,2025-07-02 08:03:11,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00052,Swap run for mobility,2025-08-20 08:58:02,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:25:22,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00039,Swap run for mobility,2025-05-21 08:12:06,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 07:03:14,Carla,Whoop shows fewer disturbances; magnesium likely helped.
+D00025,Swap run for mobility,2025-02-12 08:13:22,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:12:07,Rohan,Garmin zones feel off—can we recalibrate?
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:06:22,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:11:59,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00029,Add 10-min sunlight AM,2025-03-12 08:46:49,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00045,Add 10-min sunlight AM,2025-07-02 08:39:18,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00021,Delay workout due to low recovery,2025-01-15 08:35:59,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00037,Delay workout due to low recovery,2025-05-07 08:00:42,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00049,Increase protein by 20g today,2025-07-30 08:40:20,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00033,Delay workout due to low recovery,2025-04-09 08:58:08,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00041,Advance bedtime by 30 min,2025-06-04 08:55:23,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00025,Swap run for mobility,2025-02-12 08:23:44,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00053,Add 10-min sunlight AM,2025-08-27 08:36:01,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:17:56,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:53:19,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:55:11,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:13:24,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:29:12,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:14:11,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00031,Swap run for mobility,2025-03-26 08:36:51,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:17:35,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00041,Advance bedtime by 30 min,2025-06-04 08:41:45,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:58:53,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:52:17,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:10:56,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00026,Increase protein by 20g today,2025-02-19 08:07:47,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00043,Delay workout due to low recovery,2025-06-18 08:48:53,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00050,Advance bedtime by 30 min,2025-08-06 08:04:54,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:24:01,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:59:37,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00045,Add 10-min sunlight AM,2025-07-02 08:26:53,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:00:32,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00042,Increase protein by 20g today,2025-06-11 08:58:31,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:42:29,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00024,Swap run for mobility,2025-02-05 08:19:51,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00034,Add 10-min sunlight AM,2025-04-16 08:36:40,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:36:44,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:33:09,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00025,Swap run for mobility,2025-02-12 08:57:39,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:47:09,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00024,Swap run for mobility,2025-02-05 08:15:33,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:59:32,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 10:36:00,Neel,"Given HRV 50ms and recovery 61%, I suggest a light day."
+D00034,Add 10-min sunlight AM,2025-04-16 08:57:45,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00051,Increase protein by 20g today,2025-08-13 08:02:49,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00038,Increase protein by 20g today,2025-05-14 08:17:50,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:36:52,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00019,Advance bedtime by 30 min,2025-01-01 08:52:42,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:52:24,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00047,Increase protein by 20g today,2025-07-16 08:43:00,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:34:26,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00036,Delay workout due to low recovery,2025-04-30 08:18:22,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00019,Advance bedtime by 30 min,2025-01-01 08:05:48,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00028,Increase protein by 20g today,2025-03-05 08:53:34,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00047,Increase protein by 20g today,2025-07-16 08:31:57,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:27:25,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:58:47,hrv,46.1,44.4,50.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:09:52,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:15:15,hrv,37.1,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00027,Increase protein by 20g today,2025-02-26 08:51:16,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00029,Add 10-min sunlight AM,2025-03-12 08:17:04,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:56:34,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:51:28,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:05:59,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00046,Swap run for mobility,2025-07-09 08:27:28,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00024,Swap run for mobility,2025-02-05 08:45:06,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00026,Increase protein by 20g today,2025-02-19 08:29:23,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00028,Increase protein by 20g today,2025-03-05 08:12:54,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00047,Increase protein by 20g today,2025-07-16 08:02:43,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:00:25,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00036,Delay workout due to low recovery,2025-04-30 08:10:42,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:15:38,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00022,Swap run for mobility,2025-01-22 08:18:07,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00049,Increase protein by 20g today,2025-07-30 08:51:17,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00024,Swap run for mobility,2025-02-05 08:30:31,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00024,Swap run for mobility,2025-02-05 08:08:29,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00037,Delay workout due to low recovery,2025-05-07 08:05:00,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:07:51,hrv,38.9,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:18:49,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00049,Increase protein by 20g today,2025-07-30 08:44:20,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:02:59,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:24:23,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00038,Increase protein by 20g today,2025-05-14 08:26:51,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00034,Add 10-min sunlight AM,2025-04-16 08:08:55,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:03:31,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:13:48,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:09:07,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00029,Add 10-min sunlight AM,2025-03-12 08:47:40,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:55:00,hrv,32.6,45.7,66.0,sleep,2025-01-29,2025-01-29 11:07:22,Rohan,Need a quick hotel gym routine for tonight.
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:37:24,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00037,Delay workout due to low recovery,2025-05-07 08:45:30,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:45:39,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00049,Increase protein by 20g today,2025-07-30 08:52:39,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:05:52,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00024,Swap run for mobility,2025-02-05 08:59:49,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00028,Increase protein by 20g today,2025-03-05 08:27:29,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00035,Increase protein by 20g today,2025-04-23 08:32:35,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00038,Increase protein by 20g today,2025-05-14 08:47:49,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00050,Advance bedtime by 30 min,2025-08-06 08:29:38,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00024,Swap run for mobility,2025-02-05 08:15:57,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00022,Swap run for mobility,2025-01-22 08:01:09,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 07:44:46,Rohan,Sleep was fragmented last night—what do I adjust?
+D00026,Increase protein by 20g today,2025-02-19 08:10:09,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:05:04,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:22:55,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00046,Swap run for mobility,2025-07-09 08:46:44,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:20:00,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:35:50,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00033,Delay workout due to low recovery,2025-04-09 08:11:08,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00026,Increase protein by 20g today,2025-02-19 08:35:25,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00036,Delay workout due to low recovery,2025-04-30 08:57:14,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:18:56,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:28:59,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:57:46,hrv,45.4,41.2,49.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:36:29,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:23:57,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00036,Delay workout due to low recovery,2025-04-30 08:07:16,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00034,Add 10-min sunlight AM,2025-04-16 08:56:14,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:36:36,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00019,Advance bedtime by 30 min,2025-01-01 08:03:26,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00029,Add 10-min sunlight AM,2025-03-12 08:33:19,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00039,Swap run for mobility,2025-05-21 08:58:06,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:55:55,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 10:36:00,Neel,"Given HRV 50ms and recovery 61%, I suggest a light day."
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:11:45,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00041,Advance bedtime by 30 min,2025-06-04 08:24:44,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00042,Increase protein by 20g today,2025-06-11 08:59:11,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:46:55,hrv,38.9,30.8,65.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00024,Swap run for mobility,2025-02-05 08:33:36,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00041,Advance bedtime by 30 min,2025-06-04 08:18:15,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00022,Swap run for mobility,2025-01-22 08:45:46,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00026,Increase protein by 20g today,2025-02-19 08:34:44,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00051,Increase protein by 20g today,2025-08-13 08:31:26,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00037,Delay workout due to low recovery,2025-05-07 08:55:37,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00045,Add 10-min sunlight AM,2025-07-02 08:22:38,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00029,Add 10-min sunlight AM,2025-03-12 08:37:30,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00036,Delay workout due to low recovery,2025-04-30 08:02:37,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00020,Advance bedtime by 30 min,2025-01-08 08:42:40,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:32:50,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00040,Delay workout due to low recovery,2025-05-28 08:52:33,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00045,Add 10-min sunlight AM,2025-07-02 08:19:59,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00041,Advance bedtime by 30 min,2025-06-04 08:55:31,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:34:32,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:12:30,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00024,Swap run for mobility,2025-02-05 08:09:38,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00029,Add 10-min sunlight AM,2025-03-12 08:11:45,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:18:07,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00049,Increase protein by 20g today,2025-07-30 08:33:02,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00047,Increase protein by 20g today,2025-07-16 08:52:05,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00025,Swap run for mobility,2025-02-12 08:59:43,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:40:41,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00050,Advance bedtime by 30 min,2025-08-06 08:29:25,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:36:48,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00047,Increase protein by 20g today,2025-07-16 08:19:51,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00047,Increase protein by 20g today,2025-07-16 08:14:42,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:32:14,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00044,Increase protein by 20g today,2025-06-25 08:49:39,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00048,Swap run for mobility,2025-07-23 08:03:52,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00027,Increase protein by 20g today,2025-02-26 08:06:40,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:10:38,hrv,38.9,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00022,Swap run for mobility,2025-01-22 08:12:36,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00033,Delay workout due to low recovery,2025-04-09 08:08:56,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:07:49,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:01:41,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00035,Increase protein by 20g today,2025-04-23 08:20:54,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00043,Delay workout due to low recovery,2025-06-18 08:43:20,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00019,Advance bedtime by 30 min,2025-01-01 08:09:25,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:19:32,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00027,Increase protein by 20g today,2025-02-26 08:58:23,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00040,Delay workout due to low recovery,2025-05-28 08:10:07,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00036,Delay workout due to low recovery,2025-04-30 08:59:14,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00039,Swap run for mobility,2025-05-21 08:30:44,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:43:27,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00041,Advance bedtime by 30 min,2025-06-04 08:19:25,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00053,Add 10-min sunlight AM,2025-08-27 08:19:29,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:23:35,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:07:41,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00023,Add 10-min sunlight AM,2025-01-29 08:18:56,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00026,Increase protein by 20g today,2025-02-19 08:53:39,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:00:15,hrv,28.3,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00048,Swap run for mobility,2025-07-23 08:34:19,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:41:18,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00036,Delay workout due to low recovery,2025-04-30 08:08:29,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00050,Advance bedtime by 30 min,2025-08-06 08:06:39,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00020,Advance bedtime by 30 min,2025-01-08 08:33:09,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00031,Swap run for mobility,2025-03-26 08:13:09,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:58:41,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:11:25,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00024,Swap run for mobility,2025-02-05 08:07:52,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00020,Advance bedtime by 30 min,2025-01-08 08:19:53,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:19:55,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00030,Advance bedtime by 30 min,2025-03-19 08:09:37,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00020,Advance bedtime by 30 min,2025-01-08 08:39:54,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00038,Increase protein by 20g today,2025-05-14 08:20:49,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:31:37,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:14:36,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00042,Increase protein by 20g today,2025-06-11 08:05:48,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:03:41,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00036,Delay workout due to low recovery,2025-04-30 08:03:11,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:52:14,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00026,Increase protein by 20g today,2025-02-19 08:15:52,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00034,Add 10-min sunlight AM,2025-04-16 08:18:20,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00030,Advance bedtime by 30 min,2025-03-19 08:34:45,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:05:43,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00030,Advance bedtime by 30 min,2025-03-19 08:36:02,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:31:17,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00022,Swap run for mobility,2025-01-22 08:47:29,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:07:24,hrv,41.2,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00031,Swap run for mobility,2025-03-26 08:01:02,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:46:23,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00031,Swap run for mobility,2025-03-26 08:22:12,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:03:42,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00027,Increase protein by 20g today,2025-02-26 08:33:23,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00020,Advance bedtime by 30 min,2025-01-08 08:27:53,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:57:03,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00029,Add 10-min sunlight AM,2025-03-12 08:56:37,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00039,Swap run for mobility,2025-05-21 08:32:20,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00035,Increase protein by 20g today,2025-04-23 08:09:33,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:44:52,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00043,Delay workout due to low recovery,2025-06-18 08:12:05,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00038,Increase protein by 20g today,2025-05-14 08:50:16,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:36:02,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00050,Advance bedtime by 30 min,2025-08-06 08:21:16,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:58:47,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00033,Delay workout due to low recovery,2025-04-09 08:30:52,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:23:09,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00039,Swap run for mobility,2025-05-21 08:11:21,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 07:03:14,Carla,Whoop shows fewer disturbances; magnesium likely helped.
+D00038,Increase protein by 20g today,2025-05-14 08:38:55,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00048,Swap run for mobility,2025-07-23 08:16:12,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:09:09,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00042,Increase protein by 20g today,2025-06-11 08:07:06,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:38:29,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00038,Increase protein by 20g today,2025-05-14 08:55:16,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00031,Swap run for mobility,2025-03-26 08:15:10,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00020,Advance bedtime by 30 min,2025-01-08 08:13:03,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:36:48,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00037,Delay workout due to low recovery,2025-05-07 08:08:35,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00027,Increase protein by 20g today,2025-02-26 08:05:20,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:38:15,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:31:30,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00050,Advance bedtime by 30 min,2025-08-06 08:01:44,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:14:15,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:11:55,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:40:54,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:39:56,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00034,Add 10-min sunlight AM,2025-04-16 08:44:51,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:05:58,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:50:53,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00041,Advance bedtime by 30 min,2025-06-04 08:12:34,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:59:32,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00031,Swap run for mobility,2025-03-26 08:52:19,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00038,Increase protein by 20g today,2025-05-14 08:27:34,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00050,Advance bedtime by 30 min,2025-08-06 08:47:08,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00053,Add 10-min sunlight AM,2025-08-27 08:40:14,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00020,Advance bedtime by 30 min,2025-01-08 08:46:25,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:01:07,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00035,Increase protein by 20g today,2025-04-23 08:05:02,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 07:55:28,Rohan,Sleep was fragmented last night—what do I adjust?
+D00046,Swap run for mobility,2025-07-09 08:54:18,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 09:06:43,Rachel,Adding fish oil recs; brand and dose in plan.
+D00033,Delay workout due to low recovery,2025-04-09 08:46:53,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:36:57,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:18:45,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00028,Increase protein by 20g today,2025-03-05 08:25:17,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00027,Increase protein by 20g today,2025-02-26 08:23:35,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00047,Increase protein by 20g today,2025-07-16 08:26:04,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00047,Increase protein by 20g today,2025-07-16 08:37:42,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:45:29,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00019,Advance bedtime by 30 min,2025-01-01 08:23:01,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00033,Delay workout due to low recovery,2025-04-09 08:50:00,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00031,Swap run for mobility,2025-03-26 08:05:26,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:48:28,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00032,Increase protein by 20g today,2025-04-02 08:40:35,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00042,Increase protein by 20g today,2025-06-11 08:30:38,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00028,Increase protein by 20g today,2025-03-05 08:22:30,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:22:16,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00049,Increase protein by 20g today,2025-07-30 08:21:38,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00043,Delay workout due to low recovery,2025-06-18 08:56:43,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00028,Increase protein by 20g today,2025-03-05 08:01:37,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:38:03,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00048,Swap run for mobility,2025-07-23 08:59:20,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00022,Swap run for mobility,2025-01-22 08:32:37,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00031,Swap run for mobility,2025-03-26 08:38:21,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:35:54,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00032,Increase protein by 20g today,2025-04-02 08:30:21,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:37:47,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:54:12,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:42:47,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:50:58,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00025,Swap run for mobility,2025-02-12 08:33:11,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00032,Increase protein by 20g today,2025-04-02 08:46:24,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00028,Increase protein by 20g today,2025-03-05 08:52:31,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:12:43,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:51:35,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00027,Increase protein by 20g today,2025-02-26 08:41:12,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:26:32,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:46:27,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00038,Increase protein by 20g today,2025-05-14 08:10:07,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00020,Advance bedtime by 30 min,2025-01-08 08:41:54,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00049,Increase protein by 20g today,2025-07-30 08:34:36,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00037,Delay workout due to low recovery,2025-05-07 08:53:17,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00021,Delay workout due to low recovery,2025-01-15 08:37:15,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00026,Increase protein by 20g today,2025-02-19 08:31:33,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00031,Swap run for mobility,2025-03-26 08:31:24,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00020,Advance bedtime by 30 min,2025-01-08 08:33:18,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:53:26,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00050,Advance bedtime by 30 min,2025-08-06 08:47:06,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:05:35,hrv,34.7,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:31:57,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 09:24:57,Rachel,Noted. Sharing a 20-min Zone 2 session in the app.
+D00026,Increase protein by 20g today,2025-02-19 08:17:15,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00029,Add 10-min sunlight AM,2025-03-12 08:09:53,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:51:56,hrv,45.4,41.2,49.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00022,Swap run for mobility,2025-01-22 08:51:26,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00029,Add 10-min sunlight AM,2025-03-12 08:56:21,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:23:38,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00041,Advance bedtime by 30 min,2025-06-04 08:25:33,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:46:41,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00032,Increase protein by 20g today,2025-04-02 08:11:34,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:10:21,Rachel,Sending a mobility circuit and a short core block.
+D00032,Increase protein by 20g today,2025-04-02 08:03:16,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:10:21,Rachel,Sending a mobility circuit and a short core block.
+D00047,Increase protein by 20g today,2025-07-16 08:25:13,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00044,Increase protein by 20g today,2025-06-25 08:37:45,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00040,Delay workout due to low recovery,2025-05-28 08:27:22,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00026,Increase protein by 20g today,2025-02-19 08:12:41,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00048,Swap run for mobility,2025-07-23 08:31:10,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:56:33,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:16:28,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00032,Increase protein by 20g today,2025-04-02 08:24:00,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:18:46,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00033,Delay workout due to low recovery,2025-04-09 08:17:37,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00042,Increase protein by 20g today,2025-06-11 08:39:20,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00042,Increase protein by 20g today,2025-06-11 08:22:29,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:37:18,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00043,Delay workout due to low recovery,2025-06-18 08:01:11,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:39:43,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:06:20,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00038,Increase protein by 20g today,2025-05-14 08:22:38,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:52:21,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00051,Increase protein by 20g today,2025-08-13 08:20:11,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:41:53,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00027,Increase protein by 20g today,2025-02-26 08:21:06,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00040,Delay workout due to low recovery,2025-05-28 08:54:08,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00020,Advance bedtime by 30 min,2025-01-08 08:57:04,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:54:32,hrv,46.1,44.4,50.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00020,Advance bedtime by 30 min,2025-01-08 08:23:43,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00030,Advance bedtime by 30 min,2025-03-19 08:19:03,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:36:22,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00052,Swap run for mobility,2025-08-20 08:49:00,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00023,Add 10-min sunlight AM,2025-01-29 08:31:22,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00047,Increase protein by 20g today,2025-07-16 08:44:17,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:52:34,hrv,32.6,45.7,66.0,sleep,2025-01-29,2025-01-29 11:07:22,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:45:07,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00050,Advance bedtime by 30 min,2025-08-06 08:22:09,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:15:00,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00049,Increase protein by 20g today,2025-07-30 08:26:03,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00019,Advance bedtime by 30 min,2025-01-01 08:34:31,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:42:24,Rohan,Can you schedule a morning-only call?
+D00036,Delay workout due to low recovery,2025-04-30 08:50:34,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00040,Delay workout due to low recovery,2025-05-28 08:18:02,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00027,Increase protein by 20g today,2025-02-26 08:09:40,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00042,Increase protein by 20g today,2025-06-11 08:18:56,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00028,Increase protein by 20g today,2025-03-05 08:35:39,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00043,Delay workout due to low recovery,2025-06-18 08:13:56,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00051,Increase protein by 20g today,2025-08-13 08:24:00,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:15:24,hrv,40.0,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00042,Increase protein by 20g today,2025-06-11 08:59:08,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00048,Swap run for mobility,2025-07-23 08:30:45,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:43:17,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:31:13,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:00:38,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00046,Swap run for mobility,2025-07-09 08:15:50,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:50:22,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00027,Increase protein by 20g today,2025-02-26 08:30:41,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00047,Increase protein by 20g today,2025-07-16 08:42:11,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00040,Delay workout due to low recovery,2025-05-28 08:45:42,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00053,Add 10-min sunlight AM,2025-08-27 08:33:39,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:34:39,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00040,Delay workout due to low recovery,2025-05-28 08:14:10,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:14:58,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00027,Increase protein by 20g today,2025-02-26 08:08:58,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:17:52,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:37:42,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00053,Add 10-min sunlight AM,2025-08-27 08:55:42,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:26:24,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:36:07,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00052,Swap run for mobility,2025-08-20 08:51:41,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:40:38,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:15:45,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:16:52,hrv,40.0,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:38:15,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00030,Advance bedtime by 30 min,2025-03-19 08:17:16,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00025,Swap run for mobility,2025-02-12 08:14:56,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:12:07,Rohan,Garmin zones feel off—can we recalibrate?
+D00039,Swap run for mobility,2025-05-21 08:35:31,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:38:11,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:15:12,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00025,Swap run for mobility,2025-02-12 08:02:54,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:12:07,Rohan,Garmin zones feel off—can we recalibrate?
+D00033,Delay workout due to low recovery,2025-04-09 08:46:05,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:23:30,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00051,Increase protein by 20g today,2025-08-13 08:37:59,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00048,Swap run for mobility,2025-07-23 08:10:22,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00021,Delay workout due to low recovery,2025-01-15 08:18:52,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:36:21,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00052,Swap run for mobility,2025-08-20 08:07:27,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:19:00,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00050,Advance bedtime by 30 min,2025-08-06 08:43:08,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:46:17,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:21:11,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 09:24:57,Rachel,Noted. Sharing a 20-min Zone 2 session in the app.
+D00034,Add 10-min sunlight AM,2025-04-16 08:06:53,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00031,Swap run for mobility,2025-03-26 08:01:34,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:33:22,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00024,Swap run for mobility,2025-02-05 08:41:37,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00019,Advance bedtime by 30 min,2025-01-01 08:35:37,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:42:24,Rohan,Can you schedule a morning-only call?
+D00048,Swap run for mobility,2025-07-23 08:24:19,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00021,Delay workout due to low recovery,2025-01-15 08:01:20,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00025,Swap run for mobility,2025-02-12 08:13:35,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:12:07,Rohan,Garmin zones feel off—can we recalibrate?
+D00020,Advance bedtime by 30 min,2025-01-08 08:02:10,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00053,Add 10-min sunlight AM,2025-08-27 08:27:44,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00026,Increase protein by 20g today,2025-02-19 08:18:30,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:04:16,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:36:33,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00040,Delay workout due to low recovery,2025-05-28 08:22:13,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00048,Swap run for mobility,2025-07-23 08:57:45,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:25:03,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00053,Add 10-min sunlight AM,2025-08-27 08:05:27,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00030,Advance bedtime by 30 min,2025-03-19 08:42:18,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:42:11,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:55:45,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00037,Delay workout due to low recovery,2025-05-07 08:41:34,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:21:43,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:40:10,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:47:53,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00044,Increase protein by 20g today,2025-06-25 08:30:58,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00030,Advance bedtime by 30 min,2025-03-19 08:47:41,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00043,Delay workout due to low recovery,2025-06-18 08:58:00,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00043,Delay workout due to low recovery,2025-06-18 08:45:17,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:30:06,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:29:35,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00021,Delay workout due to low recovery,2025-01-15 08:50:18,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:52:22,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00034,Add 10-min sunlight AM,2025-04-16 08:15:45,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:00:36,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00035,Increase protein by 20g today,2025-04-23 08:48:22,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:14:10,hrv,43.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00043,Delay workout due to low recovery,2025-06-18 08:59:47,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00027,Increase protein by 20g today,2025-02-26 08:02:11,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:54:36,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00041,Advance bedtime by 30 min,2025-06-04 08:40:41,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00042,Increase protein by 20g today,2025-06-11 08:18:15,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00029,Add 10-min sunlight AM,2025-03-12 08:02:06,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:50:46,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00043,Delay workout due to low recovery,2025-06-18 08:07:10,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00053,Add 10-min sunlight AM,2025-08-27 08:05:43,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:47:24,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:40:40,hrv,38.9,30.8,65.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00037,Delay workout due to low recovery,2025-05-07 08:07:39,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00040,Delay workout due to low recovery,2025-05-28 08:20:32,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00040,Delay workout due to low recovery,2025-05-28 08:39:59,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00042,Increase protein by 20g today,2025-06-11 08:39:31,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:21:44,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:24:44,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:04:47,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00034,Add 10-min sunlight AM,2025-04-16 08:00:33,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00022,Swap run for mobility,2025-01-22 08:58:03,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00022,Swap run for mobility,2025-01-22 08:13:53,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:55:37,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00026,Increase protein by 20g today,2025-02-19 08:02:33,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:59:23,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:25:38,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:48:22,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00023,Add 10-min sunlight AM,2025-01-29 08:50:24,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00033,Delay workout due to low recovery,2025-04-09 08:21:07,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:44:17,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00031,Swap run for mobility,2025-03-26 08:20:03,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:47:20,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00023,Add 10-min sunlight AM,2025-01-29 08:57:32,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:48:26,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00027,Increase protein by 20g today,2025-02-26 08:43:40,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00037,Delay workout due to low recovery,2025-05-07 08:22:19,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00038,Increase protein by 20g today,2025-05-14 08:06:32,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00052,Swap run for mobility,2025-08-20 08:30:22,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:07:47,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00037,Delay workout due to low recovery,2025-05-07 08:30:30,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00047,Increase protein by 20g today,2025-07-16 08:52:08,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:06:48,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:54:03,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00028,Increase protein by 20g today,2025-03-05 08:35:53,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:02:49,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00022,Swap run for mobility,2025-01-22 08:43:12,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00051,Increase protein by 20g today,2025-08-13 08:00:01,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00021,Delay workout due to low recovery,2025-01-15 08:36:39,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00029,Add 10-min sunlight AM,2025-03-12 08:30:27,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00020,Advance bedtime by 30 min,2025-01-08 08:44:45,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:22:35,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00027,Increase protein by 20g today,2025-02-26 08:07:08,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00021,Delay workout due to low recovery,2025-01-15 08:23:14,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00041,Advance bedtime by 30 min,2025-06-04 08:45:41,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:57:13,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00030,Advance bedtime by 30 min,2025-03-19 08:12:30,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00048,Swap run for mobility,2025-07-23 08:21:05,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00039,Swap run for mobility,2025-05-21 08:52:36,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00041,Advance bedtime by 30 min,2025-06-04 08:18:47,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:14:42,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00048,Swap run for mobility,2025-07-23 08:49:53,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00038,Increase protein by 20g today,2025-05-14 08:29:31,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00023,Add 10-min sunlight AM,2025-01-29 08:35:00,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00023,Add 10-min sunlight AM,2025-01-29 08:29:14,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:36:10,hrv,29.3,33.5,44.0,sleep,2025-01-01,2025-01-01 09:42:08,Rohan,Can you schedule a morning-only call?
+D00021,Delay workout due to low recovery,2025-01-15 08:16:08,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00032,Increase protein by 20g today,2025-04-02 08:43:55,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00045,Add 10-min sunlight AM,2025-07-02 08:21:42,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00026,Increase protein by 20g today,2025-02-19 08:31:25,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00033,Delay workout due to low recovery,2025-04-09 08:11:08,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:00:41,hrv,40.8,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:34:12,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:08:20,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00046,Swap run for mobility,2025-07-09 08:54:46,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 09:06:43,Rachel,Adding fish oil recs; brand and dose in plan.
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:57:33,hrv,34.3,32.7,48.0,therapy,2025-03-26,2025-03-26 10:18:58,Rohan,Jet lag protocol before NY flight?
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:19:00,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00037,Delay workout due to low recovery,2025-05-07 08:17:20,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:30:29,hrv,38.9,30.8,65.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00033,Delay workout due to low recovery,2025-04-09 08:12:15,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:51:42,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:06:08,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:27:09,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00040,Delay workout due to low recovery,2025-05-28 08:11:21,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 07:54:16,Rohan,Jet lag protocol before NY flight?
+D00028,Increase protein by 20g today,2025-03-05 08:49:52,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00047,Increase protein by 20g today,2025-07-16 08:08:40,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00046,Swap run for mobility,2025-07-09 08:26:47,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00022,Swap run for mobility,2025-01-22 08:50:01,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00021,Delay workout due to low recovery,2025-01-15 08:26:25,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:11:05,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00032,Increase protein by 20g today,2025-04-02 08:09:26,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:10:21,Rachel,Sending a mobility circuit and a short core block.
+D00032,Increase protein by 20g today,2025-04-02 08:36:17,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00051,Increase protein by 20g today,2025-08-13 08:07:30,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00036,Delay workout due to low recovery,2025-04-30 08:21:19,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00031,Swap run for mobility,2025-03-26 08:36:41,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:22:46,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00021,Delay workout due to low recovery,2025-01-15 08:49:38,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00035,Increase protein by 20g today,2025-04-23 08:41:16,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:08:08,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00023,Add 10-min sunlight AM,2025-01-29 08:49:01,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00042,Increase protein by 20g today,2025-06-11 08:54:36,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00024,Swap run for mobility,2025-02-05 08:12:09,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00030,Advance bedtime by 30 min,2025-03-19 08:21:32,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:23:43,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:25:31,hrv,38.9,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00042,Increase protein by 20g today,2025-06-11 08:27:50,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00030,Advance bedtime by 30 min,2025-03-19 08:53:40,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:39:05,hrv,34.3,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:53:46,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:21:02,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00052,Swap run for mobility,2025-08-20 08:31:29,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00026,Increase protein by 20g today,2025-02-19 08:06:23,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:16:37,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00036,Delay workout due to low recovery,2025-04-30 08:35:02,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00026,Increase protein by 20g today,2025-02-19 08:10:19,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00036,Delay workout due to low recovery,2025-04-30 08:57:37,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00041,Advance bedtime by 30 min,2025-06-04 08:16:18,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:09:42,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:46:50,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00024,Swap run for mobility,2025-02-05 08:05:25,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00031,Swap run for mobility,2025-03-26 08:19:29,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00022,Swap run for mobility,2025-01-22 08:11:56,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00040,Delay workout due to low recovery,2025-05-28 08:41:40,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:50:35,hrv,46.1,44.4,50.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00034,Add 10-min sunlight AM,2025-04-16 08:11:43,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00023,Add 10-min sunlight AM,2025-01-29 08:24:58,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00039,Swap run for mobility,2025-05-21 08:28:43,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00047,Increase protein by 20g today,2025-07-16 08:41:27,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00037,Delay workout due to low recovery,2025-05-07 08:21:08,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00047,Increase protein by 20g today,2025-07-16 08:31:23,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:30:13,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 09:24:57,Rachel,Noted. Sharing a 20-min Zone 2 session in the app.
+D00042,Increase protein by 20g today,2025-06-11 08:00:41,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00020,Advance bedtime by 30 min,2025-01-08 08:34:12,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00047,Increase protein by 20g today,2025-07-16 08:34:04,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00025,Swap run for mobility,2025-02-12 08:59:27,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:30:36,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00052,Swap run for mobility,2025-08-20 08:53:59,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00030,Advance bedtime by 30 min,2025-03-19 08:20:57,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00020,Advance bedtime by 30 min,2025-01-08 08:41:45,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:54:06,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00048,Swap run for mobility,2025-07-23 08:09:14,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00049,Increase protein by 20g today,2025-07-30 08:34:01,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:55:08,hrv,46.1,44.4,50.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00040,Delay workout due to low recovery,2025-05-28 08:33:22,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:53:33,hrv,32.6,45.7,66.0,sleep,2025-01-29,2025-01-29 11:07:22,Rohan,Need a quick hotel gym routine for tonight.
+D00036,Delay workout due to low recovery,2025-04-30 08:25:12,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:53:12,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00044,Increase protein by 20g today,2025-06-25 08:37:44,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00038,Increase protein by 20g today,2025-05-14 08:28:44,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:12:54,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 09:24:57,Rachel,Noted. Sharing a 20-min Zone 2 session in the app.
+D00019,Advance bedtime by 30 min,2025-01-01 08:10:15,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00038,Increase protein by 20g today,2025-05-14 08:17:20,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00028,Increase protein by 20g today,2025-03-05 08:45:16,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00047,Increase protein by 20g today,2025-07-16 08:28:05,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:23:19,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00047,Increase protein by 20g today,2025-07-16 08:28:01,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:20:41,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00024,Swap run for mobility,2025-02-05 08:48:25,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00026,Increase protein by 20g today,2025-02-19 08:23:27,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:28:20,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:33:33,hrv,38.9,30.8,65.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00013,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-06-18 09:38:47,hrv,43.0,36.6,67.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00022,Swap run for mobility,2025-01-22 08:20:01,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00034,Add 10-min sunlight AM,2025-04-16 08:04:24,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00025,Swap run for mobility,2025-02-12 08:41:24,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00023,Add 10-min sunlight AM,2025-01-29 08:33:36,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00041,Advance bedtime by 30 min,2025-06-04 08:38:52,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00048,Swap run for mobility,2025-07-23 08:32:37,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00021,Delay workout due to low recovery,2025-01-15 08:30:32,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:56:55,hrv,32.6,45.7,66.0,sleep,2025-01-29,2025-01-29 11:07:22,Rohan,Need a quick hotel gym routine for tonight.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:03:15,hrv,40.0,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00046,Swap run for mobility,2025-07-09 08:05:33,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:56:11,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00039,Swap run for mobility,2025-05-21 08:53:12,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00051,Increase protein by 20g today,2025-08-13 08:24:42,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00039,Swap run for mobility,2025-05-21 08:32:26,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00022,Swap run for mobility,2025-01-22 08:26:58,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00045,Add 10-min sunlight AM,2025-07-02 08:59:49,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:27:22,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00023,Add 10-min sunlight AM,2025-01-29 08:45:35,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00049,Increase protein by 20g today,2025-07-30 08:21:54,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:22:53,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00052,Swap run for mobility,2025-08-20 08:40:28,sleep_hours,6.72,31.4,47.0,therapy,2025-08-27,2025-08-20 10:57:16,Rachel,Sending a mobility circuit and a short core block.
+D00051,Increase protein by 20g today,2025-08-13 08:23:57,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00028,Increase protein by 20g today,2025-03-05 08:00:51,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00035,Increase protein by 20g today,2025-04-23 08:10:23,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00042,Increase protein by 20g today,2025-06-11 08:52:24,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00029,Add 10-min sunlight AM,2025-03-12 08:22:01,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00038,Increase protein by 20g today,2025-05-14 08:06:09,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:56:21,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 10:36:00,Neel,"Given HRV 50ms and recovery 61%, I suggest a light day."
+D00049,Increase protein by 20g today,2025-07-30 08:59:58,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:29:59,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00029,Add 10-min sunlight AM,2025-03-12 08:37:41,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00049,Increase protein by 20g today,2025-07-30 08:45:17,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00028,Increase protein by 20g today,2025-03-05 08:03:59,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:17:48,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00046,Swap run for mobility,2025-07-09 08:33:45,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:32:59,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:19:53,hrv,46.2,41.0,39.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00024,Swap run for mobility,2025-02-05 08:00:06,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:57:11,hrv,45.4,41.2,49.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00046,Swap run for mobility,2025-07-09 08:36:52,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00029,Add 10-min sunlight AM,2025-03-12 08:45:19,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00025,Swap run for mobility,2025-02-12 08:26:14,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00031,Swap run for mobility,2025-03-26 08:30:25,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00047,Increase protein by 20g today,2025-07-16 08:26:40,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00051,Increase protein by 20g today,2025-08-13 08:25:47,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00046,Swap run for mobility,2025-07-09 08:40:14,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:59:45,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00038,Increase protein by 20g today,2025-05-14 08:46:38,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00033,Delay workout due to low recovery,2025-04-09 08:40:02,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00050,Advance bedtime by 30 min,2025-08-06 08:00:44,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00049,Increase protein by 20g today,2025-07-30 08:30:50,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:57:20,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00040,Delay workout due to low recovery,2025-05-28 08:23:53,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:32:58,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00038,Increase protein by 20g today,2025-05-14 08:19:29,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00044,Increase protein by 20g today,2025-06-25 08:11:28,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00041,Advance bedtime by 30 min,2025-06-04 08:42:19,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00034,Add 10-min sunlight AM,2025-04-16 08:18:49,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:35:16,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00039,Swap run for mobility,2025-05-21 08:35:37,sleep_hours,79.0,28.8,80.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00040,Delay workout due to low recovery,2025-05-28 08:50:53,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00049,Increase protein by 20g today,2025-07-30 08:56:17,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00023,Add 10-min sunlight AM,2025-01-29 08:33:13,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00053,Add 10-min sunlight AM,2025-08-27 08:03:02,sleep_hours,0.03,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00050,Advance bedtime by 30 min,2025-08-06 08:34:56,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00021,Delay workout due to low recovery,2025-01-15 08:53:04,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00035,Increase protein by 20g today,2025-04-23 08:28:39,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00047,Increase protein by 20g today,2025-07-16 08:33:53,hrv,74.0,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00029,Add 10-min sunlight AM,2025-03-12 08:45:45,stress_score,67.0,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00035,Increase protein by 20g today,2025-04-23 08:26:20,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:24:54,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00033,Delay workout due to low recovery,2025-04-09 08:28:56,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00026,Increase protein by 20g today,2025-02-19 08:51:07,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00044,Increase protein by 20g today,2025-06-25 08:29:17,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00032,Increase protein by 20g today,2025-04-02 08:19:38,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:35:48,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00034,Add 10-min sunlight AM,2025-04-16 08:41:33,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00030,Advance bedtime by 30 min,2025-03-19 08:54:45,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00044,Increase protein by 20g today,2025-06-25 08:53:34,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00023,Add 10-min sunlight AM,2025-01-29 08:46:59,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00048,Swap run for mobility,2025-07-23 08:46:08,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00020,Advance bedtime by 30 min,2025-01-08 08:26:58,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00046,Swap run for mobility,2025-07-09 08:20:34,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00023,Add 10-min sunlight AM,2025-01-29 08:33:46,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00040,Delay workout due to low recovery,2025-05-28 08:42:23,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:31:06,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:12:25,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00023,Add 10-min sunlight AM,2025-01-29 08:00:54,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00046,Swap run for mobility,2025-07-09 08:03:30,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:25:34,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:47:29,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:47:23,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00024,Swap run for mobility,2025-02-05 08:48:29,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00051,Increase protein by 20g today,2025-08-13 08:42:32,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00036,Delay workout due to low recovery,2025-04-30 08:01:23,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:53:00,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:56:52,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00032,Increase protein by 20g today,2025-04-02 08:50:59,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00032,Increase protein by 20g today,2025-04-02 08:26:45,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00027,Increase protein by 20g today,2025-02-26 08:12:53,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:54:19,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00049,Increase protein by 20g today,2025-07-30 08:11:07,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:47:17,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00036,Delay workout due to low recovery,2025-04-30 08:57:55,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00025,Swap run for mobility,2025-02-12 08:54:02,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:31:16,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:50:00,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00007,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-03-26 09:49:51,hrv,34.3,32.7,48.0,therapy,2025-03-26,2025-03-26 10:18:58,Rohan,Jet lag protocol before NY flight?
+D00036,Delay workout due to low recovery,2025-04-30 08:58:26,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00024,Swap run for mobility,2025-02-05 08:21:37,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:37:45,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00048,Swap run for mobility,2025-07-23 08:49:01,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 09:19:53,Rachel,Adding fish oil recs; brand and dose in plan.
+D00041,Advance bedtime by 30 min,2025-06-04 08:13:38,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00045,Add 10-min sunlight AM,2025-07-02 08:13:32,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00031,Swap run for mobility,2025-03-26 08:23:23,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00021,Delay workout due to low recovery,2025-01-15 08:21:36,hrv,43.3,37.4,27.0,nutrition,2025-01-15,2025-01-15 07:52:22,Rohan,Need a quick hotel gym routine for tonight.
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:45:07,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:56:09,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:09:25,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00025,Swap run for mobility,2025-02-12 08:19:31,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:12:07,Rohan,Garmin zones feel off—can we recalibrate?
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:55:47,hrv,41.2,41.2,56.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00038,Increase protein by 20g today,2025-05-14 08:35:41,stress_score,64.0,38.1,36.0,therapy,2025-05-21,2025-05-14 11:39:50,Rohan,Any update on my lab panel results?
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:12:19,hrv,46.1,31.5,55.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00014,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-07-02 09:36:13,hrv,41.2,39.2,43.0,therapy,2025-07-02,2025-07-02 09:42:38,Carla,Sending a mobility circuit and a short core block.
+D00024,Swap run for mobility,2025-02-05 08:52:33,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00051,Increase protein by 20g today,2025-08-13 08:22:26,resting_hr,71.0,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00008,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-09 09:29:01,hrv,40.0,44.4,59.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00045,Add 10-min sunlight AM,2025-07-02 08:36:49,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00025,Swap run for mobility,2025-02-12 08:50:26,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00034,Add 10-min sunlight AM,2025-04-16 08:33:52,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00045,Add 10-min sunlight AM,2025-07-02 08:57:29,sleep_hours,66.0,39.2,43.0,therapy,2025-07-02,2025-07-02 08:19:24,Rohan,Any update on my lab panel results?
+D00044,Increase protein by 20g today,2025-06-25 08:45:18,hrv,6.63,36.6,62.0,therapy,2025-07-02,2025-06-25 08:54:18,Rohan,Sleep was fragmented last night—what do I adjust?
+D00028,Increase protein by 20g today,2025-03-05 08:25:20,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00024,Swap run for mobility,2025-02-05 08:29:15,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00018,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-08-27 09:41:48,hrv,46.1,44.4,50.0,therapy,2025-08-27,2025-08-27 09:01:59,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00034,Add 10-min sunlight AM,2025-04-16 08:04:15,sleep_hours,69.0,38.1,43.0,sleep,2025-04-23,2025-04-16 09:33:23,Rohan,Need a quick hotel gym routine for tonight.
+D00042,Increase protein by 20g today,2025-06-11 08:13:36,resting_hr,56.0,31.7,35.0,therapy,2025-06-18,2025-06-11 08:57:19,Ruby,Adding fish oil recs; brand and dose in plan.
+D00003,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-29 09:14:18,hrv,32.6,39.6,53.0,sleep,2025-01-29,2025-01-29 08:35:03,Rachel,"Given HRV 52ms and recovery 63%, I suggest a light day."
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:48:03,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00036,Delay workout due to low recovery,2025-04-30 08:49:21,stress_score,73.0,39.9,44.0,supplement,2025-05-07,2025-04-30 08:22:30,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00005,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-02-26 09:49:11,hrv,38.9,30.8,65.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00019,Advance bedtime by 30 min,2025-01-01 08:06:20,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:16:08,Rohan,Need a quick hotel gym routine for tonight.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:17:43,hrv,37.1,32.6,55.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00027,Increase protein by 20g today,2025-02-26 08:18:44,resting_hr,0.0,26.0,69.0,nutrition,2025-02-26,2025-02-26 09:46:44,Advik,Sending a mobility circuit and a short core block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:01:27,hrv,41.2,38.1,38.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00043,Delay workout due to low recovery,2025-06-18 08:15:28,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00028,Increase protein by 20g today,2025-03-05 08:25:52,resting_hr,44.0,41.1,19.0,nutrition,2025-03-12,2025-03-05 08:29:45,Rohan,My HRV dipped to 44ms—should I train today?
+D00040,Delay workout due to low recovery,2025-05-28 08:53:08,sleep_hours,68.0,42.7,35.0,exercise,2025-06-04,2025-05-28 08:42:04,Advik,Sending a mobility circuit and a short core block.
+D00022,Swap run for mobility,2025-01-22 08:10:12,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:51:37,hrv,36.3,36.7,39.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00041,Advance bedtime by 30 min,2025-06-04 08:49:06,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:09:30,hrv,38.6,38.0,54.0,nutrition,2025-03-12,2025-03-12 09:15:49,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:15:40,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:27:30,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00006,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-03-12 09:56:37,hrv,38.6,43.6,47.0,nutrition,2025-03-12,2025-03-12 10:36:00,Neel,"Given HRV 50ms and recovery 61%, I suggest a light day."
+D00043,Delay workout due to low recovery,2025-06-18 08:47:06,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00022,Swap run for mobility,2025-01-22 08:58:18,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00050,Advance bedtime by 30 min,2025-08-06 08:18:45,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:54:31,hrv,52.2,31.0,27.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00004,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-02-12 09:57:22,hrv,46.2,34.7,52.0,supplement,2025-02-12,2025-02-12 09:18:05,Rohan,Need a quick hotel gym routine for tonight.
+D00025,Swap run for mobility,2025-02-12 08:35:59,stress_score,27.6,41.0,39.0,supplement,2025-02-12,2025-02-12 08:30:09,Dr. Warren,Understood. We'll set personal HR zones after the next VO2 block.
+D00033,Delay workout due to low recovery,2025-04-09 08:09:15,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:16:03,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 09:24:57,Rachel,Noted. Sharing a 20-min Zone 2 session in the app.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:07:44,hrv,34.7,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00017,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-08-13 09:48:26,hrv,41.2,37.4,34.0,sleep,2025-08-13,2025-08-13 10:51:20,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00043,Delay workout due to low recovery,2025-06-18 08:18:47,stress_score,73.0,32.0,33.0,therapy,2025-06-18,2025-06-18 09:06:27,Ruby,Labs are in; Dr. Warren will summarize by EOD.
+D00019,Advance bedtime by 30 min,2025-01-01 08:42:06,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:42:24,Rohan,Can you schedule a morning-only call?
+D00050,Advance bedtime by 30 min,2025-08-06 08:16:02,resting_hr,34.2,34.4,43.0,sleep,2025-08-13,2025-08-06 08:38:20,Rohan,My HRV dipped to 32ms—should I train today?
+D00019,Advance bedtime by 30 min,2025-01-01 08:58:37,resting_hr,37.7,33.2,66.0,sleep,2025-01-01,2025-01-01 08:52:24,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00020,Advance bedtime by 30 min,2025-01-08 08:46:25,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:22:38,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 09:24:57,Rachel,Noted. Sharing a 20-min Zone 2 session in the app.
+D00023,Add 10-min sunlight AM,2025-01-29 08:28:36,hrv,72.0,39.6,53.0,sleep,2025-01-29,2025-01-29 08:24:51,Rohan,Sleep was fragmented last night—what do I adjust?
+D00016,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-07-30 09:03:32,hrv,52.2,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00024,Swap run for mobility,2025-02-05 08:08:13,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00020,Advance bedtime by 30 min,2025-01-08 08:59:54,sleep_hours,61.0,40.7,39.0,nutrition,2025-01-15,2025-01-08 07:29:09,Neel,Understood. We'll set personal HR zones after the next VO2 block.
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:48:57,hrv,34.7,34.5,52.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00024,Swap run for mobility,2025-02-05 08:50:17,sleep_hours,69.0,32.0,74.0,supplement,2025-02-12,2025-02-05 08:12:01,Rachel,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00037,Delay workout due to low recovery,2025-05-07 08:38:36,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00041,Advance bedtime by 30 min,2025-06-04 08:13:18,sleep_hours,0.0,32.6,55.0,exercise,2025-06-04,2025-06-04 08:01:53,Advik,"For Seoul, try a clean, low-inflammatory restaurant near your hotel."
+D00033,Delay workout due to low recovery,2025-04-09 08:06:19,stress_score,36.3,43.6,41.0,sleep,2025-04-09,2025-04-09 10:59:52,Rohan,Need a quick hotel gym routine for tonight.
+D00032,Increase protein by 20g today,2025-04-02 08:43:32,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00031,Swap run for mobility,2025-03-26 08:19:54,resting_hr,52.0,31.1,33.0,therapy,2025-03-26,2025-03-26 09:17:35,Neel,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00015,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-07-16 09:00:03,hrv,34.7,36.5,54.0,nutrition,2025-07-16,2025-07-16 09:09:11,Advik,"For London, try a clean, low-inflammatory restaurant near your hotel."
+D00001,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-01-01 09:01:22,hrv,29.3,33.2,66.0,sleep,2025-01-01,2025-01-01 08:52:24,Ruby,Add 10 min sunlight after waking and reduce caffeine after 2 PM.
+D00049,Increase protein by 20g today,2025-07-30 08:33:28,stress_score,71.0,43.3,32.0,supplement,2025-07-30,2025-07-30 11:24:04,Rohan,Jet lag protocol before NY flight?
+D00012,"Start exercise protocol (30-40 min Zone 2, 3x/week; 1x strength)",2025-06-04 09:50:24,hrv,37.1,35.8,32.0,exercise,2025-06-04,2025-06-04 10:33:06,Rohan,My HRV dipped to 51ms—should I train today?
+D00035,Increase protein by 20g today,2025-04-23 08:21:46,stress_score,0.05,31.8,43.0,sleep,2025-04-23,2025-04-23 08:23:08,Rohan,Need a quick hotel gym routine for tonight.
+D00037,Delay workout due to low recovery,2025-05-07 08:59:59,sleep_hours,37.8,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00048,Swap run for mobility,2025-07-23 08:22:53,hrv,0.0,37.9,38.0,supplement,2025-07-30,2025-07-23 07:26:04,Neel,"Given HRV 39ms and recovery 78%, I suggest a light day."
+D00030,Advance bedtime by 30 min,2025-03-19 08:44:00,sleep_hours,36.6,40.3,45.0,therapy,2025-03-26,2025-03-19 07:47:52,Rohan,Any update on my lab panel results?
+D00026,Increase protein by 20g today,2025-02-19 08:14:41,sleep_hours,46.1,37.4,17.0,nutrition,2025-02-26,2025-02-19 09:14:56,Rohan,Any update on my lab panel results?
+D00011,Start therapy protocol (PT: hip flexor/couch stretch daily; spinal decompression),2025-05-21 09:36:26,hrv,28.3,33.0,50.0,therapy,2025-05-21,2025-05-21 09:46:37,Rachel,Adding fish oil recs; brand and dose in plan.
+D00032,Increase protein by 20g today,2025-04-02 08:16:30,stress_score,62.0,32.3,39.0,sleep,2025-04-09,2025-04-02 08:18:18,Ruby,"For New York, try a clean, low-inflammatory restaurant near your hotel."
+D00002,Start nutrition protocol (Meal timing shift for travel; +Omega-3 2g/day),2025-01-15 09:46:41,hrv,45.4,37.4,27.0,nutrition,2025-01-15,2025-01-15 10:37:30,Advik,Noted. Sharing a 20-min Zone 2 session in the app.
+D00010,Start supplement protocol (Mg Threonate 2 caps PM; Multivitamin AM),2025-05-07 09:27:17,hrv,36.3,38.5,61.0,supplement,2025-05-07,2025-05-07 10:05:42,Advik,Understood. We'll set personal HR zones after the next VO2 block.
+D00046,Swap run for mobility,2025-07-09 08:02:31,hrv,39.0,34.8,41.0,nutrition,2025-07-16,2025-07-09 08:34:01,Rohan,Need a quick hotel gym routine for tonight.
+D00022,Swap run for mobility,2025-01-22 08:14:54,hrv,0.05,43.4,21.0,sleep,2025-01-29,2025-01-22 08:17:53,Ruby,Booked your slot for 2025-01-22 at 10 AM.
+D00009,Start sleep protocol (No screens 60m before bed; morning light 10m),2025-04-23 09:21:08,hrv,40.8,33.1,56.0,sleep,2025-04-23,2025-04-23 10:02:56,Rohan,Any update on my lab panel results?
